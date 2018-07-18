@@ -1,8 +1,7 @@
 body {
-background-image: url("../images/background.jpg");
+background-image: url("images/background.jpg");
 letter-spacing: 0.3px;
 }
-
 
 td{
   padding: 9px;
