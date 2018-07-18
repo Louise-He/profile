@@ -1,0 +1,111 @@
+body {
+background-image: url("../images/background.jpg");
+letter-spacing: 0.3px;
+}
+
+
+td{
+  padding: 9px;
+}
+
+#img-profile {
+  width: 150px;
+  height: 150px;
+  border: 3px solid
+  #cccccc;
+}
+
+.img-circle{
+  border-radius: 60%;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.h1{
+  color: #000000;
+  font-family: 'Anton';
+  font-size: 33px;
+}
+
+.h2{
+  font-size: 23px;
+  font-weight: 300;
+  display: block;
+  font-family: 'Muli', sans-serif;
+}
+
+.p1{
+  font-size: 15px;
+  font-weight: 300;
+  font-family: 'Muli', sans-serif;
+}
+
+.card {
+ background-color: rgba(255,255,255,0.7);
+ padding: 50px;
+ width: 500px;
+ margin: 30px auto; /*must have a set width*/
+}
+
+/* descendant selector */
+.movies img{
+width: 150px;
+margin: 10px auto;
+border-radius: 10%;
+}
+
+.S{
+font-size: 33px;
+font-weight: bold;
+font-family: 'Knewave', cursive;
+}
+
+.S1{
+  font-size: 25px;
+  font-family: 'Merienda', cursive;
+}
+
+.S2{
+  font-size: 15px;
+  font-family: 'Gaegu', cursive;
+}
+
+.S3{
+  font-size: 25px;
+  font-family: 'Merienda', cursive;
+}
+
+.S4{
+  font-size: 15px;
+  font-family: 'Gaegu', cursive;
+}
+
+.S5{
+  font-size: 25px;
+  font-family: 'Merienda', cursive;
+}
+
+.S6{
+  font-size: 15px;
+  font-family: 'Gaegu', cursive;
+}
+
+.tail{
+  font-size: 23px;
+  font-family: 'Muli', sans-serif;
+}
+
+
+.li{
+  list-style: none; /*get rid of bullets*/
+  display: inline;
+  padding: 10px
+
+   /*turn into horizontal list*/
+}
+
+a{
+  text-decoration: none;
+}
